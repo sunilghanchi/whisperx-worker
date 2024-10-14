@@ -4,7 +4,7 @@ torchvision==0.16.0+cu121
 torchaudio==2.1.0+cu121
 pydub
 git+https://github.com/m-bain/whisperx.git
-runpod
+runpod==1.6.2
 cog
 speechbrain==0.5.16
 cryptography<43.0.0
